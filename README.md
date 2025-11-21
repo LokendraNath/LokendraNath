@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | Next.js • React • TypeScript • MongoDB • Expressjs | Building Scalable Web Apps
 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LokendraNath&label=Profile views&color=0e75b6&style=flat" alt="LokendraNath" /> </p>
+
 <p align="left"> <a href="https://twitter.com/iamlokendranath" target="blank"><img src="https://img.shields.io/twitter/follow/iamlokendranath?logo=twitter&style=for-the-badge" alt="iamlokendranath" /></a> </p>
 
 - 🔭 I'm currently working on **A full-stack therapy management project (TheraLink) using Next.js, Node.js, and MySQL — focused on authentication, dashboards, and smooth UI/UX.**
