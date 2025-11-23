@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   <h1>Hi there, I'm Lokendra Nath</h1>
   
   <h3>Full-Stack Developer | Next.js • React • TypeScript • MongoDB</h3>
