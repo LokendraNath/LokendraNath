@@ -42,13 +42,12 @@
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" alt="Frontend" />
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
 
 **Backend & Database**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend" />
 
 **DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman,jest" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman" alt="Tools" />
 
 </div>
 
@@ -57,7 +56,7 @@
 ### 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github.com/LokendraNath/LokendraNath/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LokendraNath/LokendraNath/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br/><br/>
 
