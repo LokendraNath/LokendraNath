@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-  <h5>Hi there, I'm </h5>
-  <h1>Lokendra Nath</h1>
+  <h1>Hi there, I'm Lokendra Nath</h1>
 
-  <h3>Full-Stack Developer</h3>
+  <h3>Full-Stack Developer | Next.js • React • TypeScript • MongoDB</h3>
   <p>Building Scalable Web Apps & Solving Complex Problems</p>
 
   <p>
