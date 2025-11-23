@@ -19,20 +19,15 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=LokendraNath&label=Profile%20Views&color=0e75b6&style=flat" alt="LokendraNath" />
-  </p>
 </div>
 
 <hr/>
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[TheraLink]** – A full-stack therapy management project using **Next.js, Node.js, and MySQL** focused on auth & dashboards.
+- 🔭 I'm currently working on **[TheraLink]** – A full-stack therapy management project using **Next.js, Node.js, and MySQL**.
 - 🌱 I'm currently learning **Advanced TypeScript, Prisma ORM, and Production-Ready Backend Architecture.**
-- 👯 I'm looking to collaborate on **Open-source JS/TS projects and Modern Web Apps.**
-- 🤝 I'm looking for help with **Performance optimization in large Next.js applications.**
+- 👯 I'm looking to collaborate on **Open-source JS/TS projects.**
 - 💬 Ask me about **React, MERN Stack, Authentication, and UI/UX.**
 - 📫 How to reach me: **lokendraverma225@gmail.com**
 
@@ -59,13 +54,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <a href="https://github.com/LokendraNath">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=radical&hide_border=true" alt="Lokendra's Streak" />
-  </a>
-  
+  <img src="https://github.com/LokendraNath/LokendraNath/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
   <br/><br/>
 
   <table>
@@ -78,6 +71,10 @@
       </td>
     </tr>
   </table>
+
+  <a href="https://github.com/LokendraNath">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=radical&hide_border=true" alt="Lokendra's Streak" />
+  </a>
 </div>
 
 ---
@@ -90,7 +87,7 @@
   <a href="https://dev.to/lokendra_verma" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" />
   </a>
-  <a href="https://stackoverflow.com/users/lokendra-verma" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/lokendranath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
