@@ -1,72 +1,96 @@
-# Hi 👋, I'm Lokendra Nath
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Hi there, I'm Lokendra Nath</h1>
+  
+  <h3>Full-Stack Developer | Next.js • React • TypeScript • MongoDB</h3>
+  <p>Building Scalable Web Apps & Solving Complex Problems</p>
 
-### Full-Stack Developer | Next.js • React • TypeScript • MongoDB • Expressjs | Building Scalable Web Apps
+  <p>
+    <a href="https://lokendranath.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://drive.google.com/file/d/1yyB6bMmZ5begfbiC4CmV8P7qO_takpg6/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://linkedin.com/in/lokendranath" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/iamlokendranath" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/iamlokendranath" target="blank"><img src="https://img.shields.io/twitter/follow/iamlokendranath?logo=twitter&style=for-the-badge" alt="iamlokendranath" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=LokendraNath&label=Profile%20Views&color=0e75b6&style=flat" alt="LokendraNath" />
+  </p>
+</div>
 
-- 🔭 I'm currently working on **A full-stack therapy management project (TheraLink) using Next.js, Node.js, and MySQL — focused on authentication, dashboards, and smooth UI/UX.**
+<hr/>
 
-- 🌱 I'm currently learning **Advanced TypeScript, Prisma ORM, API optimization, and production-ready backend architecture.**
+### 👨‍💻 About Me
 
-- 👯 I'm looking to collaborate on **Open-source JavaScript/TypeScript projects, full-stack web apps, or any modern web development idea.**
+- 🔭 I'm currently working on **[TheraLink]** – A full-stack therapy management project using **Next.js, Node.js, and MySQL** focused on auth & dashboards.
+- 🌱 I'm currently learning **Advanced TypeScript, Prisma ORM, and Production-Ready Backend Architecture.**
+- 👯 I'm looking to collaborate on **Open-source JS/TS projects and Modern Web Apps.**
+- 🤝 I'm looking for help with **Performance optimization in large Next.js applications.**
+- 💬 Ask me about **React, MERN Stack, Authentication, and UI/UX.**
+- 📫 How to reach me: **lokendraverma225@gmail.com**
 
-- 🤝 I'm looking for help with **Improving performance, scalability, and best practices for large Next.js and Node.js applications.**
+---
 
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, MySQL, authentication systems, REST APIs, UI/UX, and full-stack development.**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **lokendraverma225@gmail.com**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[https://lokendranath.vercel.app/](https://lokendranath.vercel.app/)**
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" />
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1yyB6bMmZ5begfbiC4CmV8P7qO_takpg6/view?usp=sharing](https://drive.google.com/file/d/1yyB6bMmZ5begfbiC4CmV8P7qO_takpg6/view?usp=sharing)**
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" alt="Frontend" />
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/LokendraNath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LokendraNath" height="30" width="40" /></a>
-<a href="https://dev.to/lokendra_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lokendra_verma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokendranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokendranath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lokendra-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lokendra-verma" height="30" width="40" /></a>
-<a href="https://twitter.com/iamlokendranath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamlokendranath" height="30" width="40" /></a>
-</p>
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <h3>Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-</p>
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman,jest" alt="Tools" />
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
-</p>
+</div>
 
-<h3>Backend & Database</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-</p>
+---
 
-<h3>DevOps & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
-</p></p>
+### 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LokendraNath&show_icons=true&locale=en&layout=compact" alt="LokendraNath" /></p>
+<div align="center">
+  <a href="https://github.com/LokendraNath">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=radical&hide_border=true" alt="Lokendra's Streak" />
+  </a>
+  
+  <br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&locale=en" alt="LokendraNath" /></p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Lokendra's Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LokendraNath&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Lokendra's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&" alt="LokendraNath" /></p>
+---
 
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="https://github.com/LokendraNath" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://dev.to/lokendra_verma" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://stackoverflow.com/users/lokendra-verma" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" />
+  </a>
+</div>
