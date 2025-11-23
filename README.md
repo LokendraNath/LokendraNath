@@ -71,18 +71,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=radical&hide_border=true" alt="Lokendra's Streak" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <h3>Connect with me</h3>
-  <a href="https://github.com/LokendraNath" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://dev.to/lokendra_verma" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/lokendranath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
