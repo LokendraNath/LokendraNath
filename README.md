@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-  
   <h1>Hi there, I'm Lokendra Nath</h1>
-  
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;MERN+Stack+Expert;Next.js+%26+TypeScript+Lover" alt="Typing SVG" />
-</a>
+
+  <h3>Full-Stack Developer | Next.js • React • TypeScript • MongoDB</h3>
+  <p>Building Scalable Web Apps & Solving Complex Problems</p>
 
   <p>
     <a href="https://lokendranath.vercel.app/" target="_blank">
