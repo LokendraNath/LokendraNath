@@ -56,12 +56,16 @@
 ### 📈 GitHub Stats & Contributions
 
 <div align="center">
- <a href="https://github.com/LokendraNath">
+ <table>
+    <tr>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Lokendra's Stats" />
-  </a>
-   <a href="https://github.com/LokendraNath">
+      </td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LokendraNath&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Lokendra's Top Languages" />
-          </a>
+      </td>
+    </tr>
+  </table>
 
 
   <a href="https://github.com/LokendraNath">
