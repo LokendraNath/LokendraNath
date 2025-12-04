@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **TheraLink** – A full-stack therapy management project using **Next.js, TypeScript, PostgreSQL**.
+- 🔭 I'm currently working on Full Stack Project.
 - 🌱 I'm currently learning **Advanced TypeScript, Prisma ORM, and Production-Ready Backend Architecture.**
 - 👯 I'm looking to collaborate on **Open-source JS/TS projects.**
 - 💬 Ask me about **React, MERN Stack, Authentication, and UI/UX.**
