@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" />
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" />
 
 **Backend & Database**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend" />
