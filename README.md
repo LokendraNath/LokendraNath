@@ -9,7 +9,7 @@
     <a href="https://lokendranath.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://drive.google.com/file/d/1yyB6bMmZ5begfbiC4CmV8P7qO_takpg6/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1dw2DFl0PWj_1w_M_9xMczZH_J4g7xNxR/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
     <a href="https://linkedin.com/in/lokendranath" target="_blank">
