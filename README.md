@@ -25,11 +25,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on Full Stack Project.
-- 🌱 I'm currently learning **TypeScript, Prisma ORM, and Production-Ready Backend Architecture.**
-- 👯 I'm looking to collaborate on **Open-source JS/TS projects.**
-- 💬 Ask me about **React, MERN Stack, Next.js , TypeScript**
-- 📫 How to reach me: **lokendraverma225@gmail.com**
+- 🔭 Currently working on a Full Stack project with an Event-Driven Architecture.
+- 🌱 Actively learning **Data Structures & Algorithms in JavaScript** and **scalable backend architecture**.
+- 🧠 Exploring **Event-Driven Systems**, system design fundamentals, and real-world problem solving.
+- 👯 Open to collaborating on **open-source JavaScript / TypeScript projects**.
+- 💬 Ask me about **JavaScript, DSA, Event-Driven Architecture, React, Next.js, and the MERN stack**.
+- 📫 Reach me at: **lokendraverma225@gmail.com**
 
 ---
 
