@@ -54,22 +54,11 @@
 
 ---
 
-### 📈 GitHub Stats & Contributions
+### 📈 GitHub Stats: 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=transparent&hide_border=false" alt="LokendraNath Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://github.com/LokendraNath">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </a>
+![](https://github-readme-stats.vercel.app/api?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <br/><br/>
   
