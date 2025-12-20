@@ -62,16 +62,13 @@
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=transparent&hide_border=false" alt="LokendraNath Streak" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      </td>
     </tr>
   </table>
 
   <br/>
 
   <a href="https://github.com/LokendraNath">
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </a>
 
   <br/><br/>
