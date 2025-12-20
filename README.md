@@ -60,17 +60,17 @@
  <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Lokendra's Stats" />
+        ![](https://github-readme-stats.vercel.app/api?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LokendraNath&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Lokendra's Top Languages" />
+        ![](https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false)<br/>
       </td>
     </tr>
   </table>
 
 
   <a href="https://github.com/LokendraNath">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraNath&theme=radical&hide_border=true" alt="Lokendra's Streak" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
