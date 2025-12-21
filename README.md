@@ -29,7 +29,7 @@
 - 🌱 Actively learning **Data Structures & Algorithms in JavaScript** and **Next.js TypeScript Deep**.
 - 🧠 Exploring **Event-Driven Systems**, system design fundamentals, and real-world problem solving.
 - 👯 Open to collaborating on **open-source JavaScript / TypeScript projects**.
-- 💬 Ask me about **JavaScript, DSA, Event-Driven Architecture, React, Next.js, and the MERN stack**.
+- 💬 Ask me about **JavaScript, Event-Driven Architecture, React, Next.js, and the MERN stack**.
 - 📫 Reach me at: **lokendraverma225@gmail.com**
 
 ---
