@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   <h1>Hi, I'm Lokendra Nath</h1>
 
-  <h3>Full-Stack Developer</h3>
-  <p>Building Scalable Web Apps & Solving Complex Problems</p>
+  <h3>Full Stack Developer</h3>
+  <p>Building Scalable (MERN & Next.js).ts Web Apps </p>
 
   <p>
     <a href="https://lokendranath.vercel.app/" target="_blank">
@@ -25,10 +25,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on a Full Stack project with an Event-Driven Architecture.
-- 🌱 Actively learning **Data Structures & Algorithms in JavaScript** and **Next.js TypeScript Deep**.
-- 🧠 Exploring **Event-Driven Systems**, system design fundamentals, and real-world problem solving.
-- 👯 Open to collaborating on **open-source JavaScript / TypeScript projects**.
+- 🔭 Currently working on a OutBrain.
+- 🌱 Actively learning and TypeScript And Adwance Backend.
+- 👯 Open to collaborating on **open-source TypeScript projects**.
 - 💬 Ask me about **JavaScript,React, Next.js, and the MERN stack**.
 - 📫 Reach me at: **lokendraverma225@gmail.com**
 
