@@ -29,7 +29,7 @@
 - 🌱 Actively learning and TypeScript And Adwance Backend.
 - 👯 Open to collaborating on **open-source TypeScript projects**.
 - 💬 Ask me about **JavaScript,React, Next.js, and the MERN stack**.
-- 📫 Reach me at: **lokendraverma225@gmail.com**
+- 📫 Reach me: **lokendraverma225@gmail.com**
 
 ---
 
