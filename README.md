@@ -3,7 +3,7 @@
   <h1>Hi, I'm Lokendra Nath</h1>
 
   <h3>Full Stack Developer</h3>
-  <p>Building Scalable (MERN & Next.js).ts Web Apps </p>
+  <p>Building Scalable MERN & Next.js Web Apps </p>
 
   <p>
     <a href="https://lokendranath.vercel.app/" target="_blank">
