@@ -60,7 +60,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <br/><br/>
+  ![](https://komarev.com/ghpvc/?username=LokendraNath)
   </div>
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
