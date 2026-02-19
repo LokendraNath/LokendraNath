@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  
   <h1>Hi, I'm Lokendra Nath</h1>
-
   <h3>Full Stack Developer</h3>
-  <p>Building Scalable (MERN & Next.js).ts Web Apps </p>
+  <p>Building Scalable MERN & Next.js Web Applications</p>
 
   <p>
     <a href="https://lokendranath.vercel.app/" target="_blank">
@@ -23,44 +23,61 @@
 
 <hr/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on a OutBrain.
-- 🌱 Actively learning and TypeScript And Adwance Backend.
+- 🔭 Currently working on OutBrain.
+- 🌱 Actively learning TypeScript and Advanced Backend Development.
 - 👯 Open to collaborating on **open-source TypeScript projects**.
-- 💬 Ask me about **JavaScript,React, Next.js, and the MERN stack**.
+- 💬 Ask me about **JavaScript, React, Next.js, and the MERN stack**.
 - 📫 Reach me: **lokendraverma225@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 
-**Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend" />
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 
-**DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman" alt="Tools" />
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman" />
 
 </div>
 
 ---
-### 📈 GitHub Stats: 
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/><br/>
-    ![](https://komarev.com/ghpvc/?username=LokendraNath)
-  </div>
+<br/><br/>
+![](https://komarev.com/ghpvc/?username=LokendraNath)
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/LokendraNath/LokendraNath/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
