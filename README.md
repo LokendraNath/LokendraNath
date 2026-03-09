@@ -27,7 +27,7 @@
 
 - 🔭 Currently working on OutBrain.
 - 🌱 Actively learning TypeScript and Advanced Backend Development.
-- 👯 Open to collaborating on **open-source TypeScript projects**.
+- 👯 Open to collaborating on **open-source TypeScript project**.
 - 💬 Ask me about **JavaScript, React, Next.js, and the MERN stack**.
 - 📫 Reach me: **lokendraverma225@gmail.com**
 
