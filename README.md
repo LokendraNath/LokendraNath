@@ -24,13 +24,13 @@
 <hr/>
 
 ## 👨‍💻 About Me
-<div align="center">
+
 - 🔭 Currently working on OutBrain.
 - 🌱 Actively learning TypeScript and Advanced Backend Development.
 - 👯 Open to collaborating on **open-source TypeScript project**.
 - 💬 Ask me about **JavaScript, React, Next.js, and the MERN stack**.
 - 📫 Reach me: **lokendraverma225@gmail.com**
-</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -56,8 +56,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false)
 
