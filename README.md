@@ -25,11 +25,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on OutBrain.
-- 🌱 Actively learning TypeScript and Advanced Backend Development.
-- 👯 Open to collaborating on **open-source TypeScript project**.
-- 💬 Ask me about **JavaScript, React, Next.js, and the MERN stack**.
-- 📫 Reach me: **lokendraverma225@gmail.com**
+* 🔭 **Currently working on:** a **Private Enterprise Documentation Platform**
+* ⚡ **Full Stack Developer** focused on **React, TypeScript, and Node.js**
+* 🧠 **Interested in:** scalable backend systems and **clean architecture**
+* 💬 **Ask me about:** **JavaScript, React, Next.js, and the MERN Stack**
+* 📫 **Reach me at:** **[lokendraverma225@gmail.com](mailto:lokendraverma225@gmail.com)**
+
 
 ---
 
