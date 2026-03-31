@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
