@@ -57,9 +57,11 @@
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&theme=tokyonight"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&theme=transparent&cache_seconds=86400"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=tokyonight"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent&cache_seconds=86400"/>
 
 </p>
 
