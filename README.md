@@ -1,91 +1,76 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <h1>Hi, I'm Lokendra Nath 👋</h1>
+  <h3>Full Stack Developer — MERN · Next.js · TypeScript</h3>
+  <p>Building scalable, production‑ready web applications.</p>
 
-# 👋 Hi, I'm Lokendra Nath
+  <p>
+    <a href="https://lokendranath.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://drive.google.com/file/d/1dw2DFl0PWj_1w_M_9xMczZH_J4g7xNxR/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://linkedin.com/in/lokendranath" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/iamlokendranath" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
 
-### Full Stack Developer
+<hr />
 
-🚀 Building **Scalable MERN & Next.js Applications**
+## 🧑‍💻 About Me
 
-<p>
-<a href="https://lokendranath.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
+- 🔭 **Currently working on:** a **Private Enterprise Documentation Platform**
+- ⚡ **Full Stack Developer** specializing in **React, TypeScript, and Node.js**
+- 🧠 **Interested in:** scalable backend systems & clean architecture
+- 💬 **Ask me about:** JavaScript, React, Next.js, MERN Stack
+- 📫 **Reach me:** [lokendraverma225@gmail.com](mailto:lokendraverma225@gmail.com)
 
-<a href="https://linkedin.com/in/lokendranath">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:lokendraverma225@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-* 🔭 Currently building a **Private Enterprise Documentation Platform**
-* 💻 Full Stack Developer focused on **React, TypeScript & Node.js**
-* ⚙️ Passionate about **scalable backend architecture**
-* 📚 Always learning **system design & clean architecture**
-* 📫 Reach me at: **[lokendraverma225@gmail.com](mailto:lokendraverma225@gmail.com)**
+<div align="center">
 
----
+<!-- Streak stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false" alt="GitHub Streak" />
 
-# 🚀 Tech Stack
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-### Languages
+<br/><br/>
+<!-- Profile views (unchanged) -->
+<img src="https://komarev.com/ghpvc/?username=LokendraNath" alt="Profile Views" />
 
-<img src="https://skillicons.dev/icons?i=js,ts" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman" />
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&theme=transparent"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
-</p>
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=LokendraNath&style=flat-square"/>
-</p>
+</div>
 
 ---
 
 <div align="center">
-
-⭐ If you like my work, consider giving a star!
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
