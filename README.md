@@ -62,3 +62,11 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LokendraNath&theme=github-compact"/>
+</p>
