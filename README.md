@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
   <h1>Hi, I'm Lokendra Nath 👋</h1>
   <h3>Full Stack Developer — MERN · Next.js · TypeScript</h3>
@@ -65,8 +64,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LokendraNath&theme=github-compact"/>
 </p>
