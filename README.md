@@ -55,19 +55,17 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<!-- Streak stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=LokendraNath&theme=transparent&hide_border=false" alt="GitHub Streak" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LokendraNath&show_icons=true&theme=transparent"/>
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=transparent"/>
 
-<br/><br/>
-<!-- Profile views (unchanged) -->
-<img src="https://komarev.com/ghpvc/?username=LokendraNath" alt="Profile Views" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
+</p>
 
 ---
 
