@@ -59,9 +59,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LokendraNath&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
 </p>
