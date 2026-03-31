@@ -58,10 +58,3 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=LokendraNath&theme=transparent"/>
 </p>
-
----
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=LokendraNath&label=Profile+Views&color=blue&style=flat-square" />
-</p>
