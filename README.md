@@ -31,7 +31,7 @@
 > *“I have no special talent. I am only passionately curious.” – Albert Einstein*
 
 - 🔭 **Currently working on:** a **Private Enterprise Documentation Platform**
-- ⚡ **Full Stack Developer** specializing in **React, TypeScript, and Node.js**
+- ⚡ **Full Stack Developer** specializing in **Next.js, TypeScript,React and Node.js**
 - 🧠 **Interested in:** scalable backend systems & clean architecture
 - 💬 **Ask me about:** JavaScript, React, Next.js, MERN Stack
 - 📫 **Reach me:** [lokendraverma225@gmail.com](mailto:lokendraverma225@gmail.com)
