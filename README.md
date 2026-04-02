@@ -28,6 +28,8 @@
 
 ## 🧑‍💻 About Me
 
+> *“I have no special talent. I am only passionately curious.” – Albert Einstein*
+
 - 🔭 **Currently working on:** a **Private Enterprise Documentation Platform**
 - ⚡ **Full Stack Developer** specializing in **React, TypeScript, and Node.js**
 - 🧠 **Interested in:** scalable backend systems & clean architecture
