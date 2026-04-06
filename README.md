@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-> *“I have no special talent. I am only passionately curious.” – Albert Einstein*
+> *“I have no special talent. I am only passionately curious.”*
 
 - 🔭 **Currently working on:** a **Private Enterprise Documentation Platform**
 - ⚡ **Full Stack Developer** specializing in **Next.js, TypeScript,React and Node.js**
