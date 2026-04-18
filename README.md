@@ -30,7 +30,7 @@
 
 > *“I have no special talent. I am only passionately curious.”*
 
-- 🔭 **Currently working on:** a ** Enterprise Documentation Platform**
+- 🔭 **Currently working on:** a **Enterprise Documentation Platform**
 - ⚡ **Full Stack Developer** specializing in **Next.js, TypeScript, React.js and Node.js**
 - 🧠 **Interested in:** scalable backend systems & clean architecture
 - 💬 **Ask me about:** JavaScript, React, Next.js, MERN Stack
