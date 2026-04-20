@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-> *“I have no special talent. I am only passionately curious about web 🕸️.”*
+> *“I have no special talent. I am only passionately curious about web 🌐.”*
 
 - 🔭 **Currently working on:** a **Enterprise Documentation Platform**
 - ⚡ **Full Stack Developer** specializing in **Next.js, TypeScript, React.js and Node.js**
