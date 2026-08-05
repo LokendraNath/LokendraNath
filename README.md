@@ -33,7 +33,6 @@
 - 🔭 **Currently working on:** a **Enterprise Documentation Platform**
 - ⚡ **Full Stack Developer** specializing in **Next.js, TypeScript, React.js and Node.js**
 - 🧠 **Interested in:** scalable backend systems & clean architecture
-- 💬 **Ask me about:** JavaScript, React, Next.js, MERN Stack
 - 📫 **Reach me:** [lokendraverma225@gmail.com](mailto:lokendraverma225@gmail.com)
 
 ---
